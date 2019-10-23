@@ -13,7 +13,7 @@ export default class NavBar extends Component {
                     <ul className="navbar-nav mr-auto">
                         <li className="navbar-item">
                             <Link to="/" className="nav-link">Exercises</Link>
-                        </li>
+                        </li> 
                         <li className="navbar-item">
                             <Link to="/create" className="nav-link">Create Exercise log</Link>
                         </li>
